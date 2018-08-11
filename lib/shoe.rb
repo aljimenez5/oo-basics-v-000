@@ -10,9 +10,4 @@ attr_reader :brand
     @condition = "new"
     puts "Shoe has been repaired"
   end
-
-
-
-
-
 end
