@@ -6,8 +6,8 @@ attr_reader :brand
     @brand = brand
   end
 
-  
-    
+
+
   
 
 end
