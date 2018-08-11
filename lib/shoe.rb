@@ -6,8 +6,6 @@ attr_reader :brand
     @brand = brand
   end
 
-  def condition
-    @condition = old
-      self.condition = "New"
+  
 
 end
